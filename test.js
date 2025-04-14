@@ -1,1 +1,1 @@
-alert(document.domain);
+javscript:alert(document.domain);
